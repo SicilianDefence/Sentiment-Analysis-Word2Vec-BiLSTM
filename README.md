@@ -34,4 +34,5 @@ LSTM is a variant of RNN that is designed to handle long-term dependencies by ut
 Bi-LSTM extends the capabilities of LSTM by incorporating two separate LSTM layers: one processing the input sequence in the forward direction, and the other processing it in the reverse direction. This arrangement allows the model to capture information from both past and future contexts simultaneously.
 
 <img width="689" alt="Screen_Shot_2020-05-25_at_8 54 27_PM" src="https://github.com/SicilianDefence/Sentiment-Analysis-Word2Vec-BiLSTM/assets/45375601/7edf2e98-bc29-4ccd-8e79-d534996c0909">
+
 Source: https://paperswithcode.com/method/bilstm
