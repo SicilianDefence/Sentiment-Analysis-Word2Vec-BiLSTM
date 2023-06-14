@@ -24,7 +24,7 @@ The Word2Vec algorithm was introduced by Tomas Mikolov et al. at Google in 2013.
 
 ![Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm](https://github.com/SicilianDefence/Sentiment-Analysis-Word2Vec-BiLSTM/assets/45375601/73249aec-cc0e-4e88-b745-87b692338960)
 
-Source: https://www.researchgate.net/figure/Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm_fig2_320829283
+Image Source: https://www.researchgate.net/figure/Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm_fig2_320829283
 
 ## Bi-LSTM
 Bi-LSTM, short for Bidirectional Long Short-Term Memory, is a type of recurrent neural network (RNN) architecture that incorporates information from both past and future contexts of a given sequence. It addresses the limitation of standard LSTM models, which only consider past information.
@@ -35,4 +35,4 @@ Bi-LSTM extends the capabilities of LSTM by incorporating two separate LSTM laye
 
 <img width="689" alt="Screen_Shot_2020-05-25_at_8 54 27_PM" src="https://github.com/SicilianDefence/Sentiment-Analysis-Word2Vec-BiLSTM/assets/45375601/7edf2e98-bc29-4ccd-8e79-d534996c0909">
 
-Source: https://paperswithcode.com/method/bilstm
+Image Source: https://paperswithcode.com/method/bilstm
