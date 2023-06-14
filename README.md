@@ -22,6 +22,7 @@ Word2Vec is a popular algorithm used in natural language processing (NLP) to gen
 
 The Word2Vec algorithm was introduced by Tomas Mikolov et al. at Google in 2013. It is a shallow, two-layer neural network model that is trained on a large corpus of text data to learn word embeddings. The main idea behind Word2Vec is that words with similar meanings tend to appear in similar contexts. Therefore, by learning from the co-occurrence patterns of words in a text corpus, Word2Vec can capture the semantic relationships between words.
 
-![Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm](https://github.com/SicilianDefence/Sentiment-Analysis-Word2Vec-BiLSTM/assets/45375601/73249aec-cc0e-4e88-b745-87b692338960)Source: https://www.researchgate.net/figure/Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm_fig2_320829283
+![Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm](https://github.com/SicilianDefence/Sentiment-Analysis-Word2Vec-BiLSTM/assets/45375601/73249aec-cc0e-4e88-b745-87b692338960)
+Source: https://www.researchgate.net/figure/Word2Vec-CBOW-and-Skip-gram-There-are-two-different-methods-in-the-Word2Vec-algorithm_fig2_320829283
 
 
